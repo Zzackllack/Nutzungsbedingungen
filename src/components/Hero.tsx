@@ -9,12 +9,12 @@ const Hero = () => {
 
       <div className="relative z-10 w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center">
-          <img src="/datenschutz/Designer.png" alt="Logo" className="h-20 w-20 mx-auto mb-8" />
+          <img src="/nutzungsbedingungen/Designer.png" alt="Logo" className="h-20 w-20 mx-auto mb-8" />
             <h1 className="text-5xl md:text-7xl font-bold bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400 pb-4 break-words">
-                Impressum
+              Nutzungsbedingungen
             </h1>
           <p className="mt-6 text-lg md:text-xl text-neutral-300 max-w-2xl mx-auto">
-            Willkommen auf unserer Impressum-Seite. Hier finden Sie alle rechtlichen Informationen und Details zum Webseitenbetreiber.
+            Nachfolgend finden Sie die Nutzungsbedingungen für die Nutzung unserers Webangebotes.
           </p>
           <div className="mt-10 flex flex-col sm:flex-row gap-4 justify-center">
             <a

@@ -3,7 +3,7 @@ import React from "react";
 const Policy: React.FC = () => {
     return (
         <section id="policy-details" className="container mx-auto px-4 py-12 text-gray-200">
-            <h1 className="text-6xl font-bold mb-6">Nutzungsbedingungen</h1>
+            <h1 className="text-6xl font-bold mb-6 break-words">Nutzungsbedingungen</h1>
 
             <h2 className="text-2xl font-semibold mt-8 mb-4">Geltungsbereich und Vertragsgegenstand</h2>
             <p className="mb-4">
